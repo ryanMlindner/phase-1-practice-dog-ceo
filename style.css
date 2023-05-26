@@ -1,0 +1,7 @@
+.clicked{
+  color: blueviolet;
+}
+
+.notSelected{
+  display: none;
+}
